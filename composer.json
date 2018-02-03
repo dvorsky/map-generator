@@ -1,0 +1,9 @@
+{
+  "autoload": {
+    "psr-4": {"App\\": "src/"}
+  },
+  "require": {
+    "a1essandro/perlin-noise": "^1.2",
+    "jenssegers/blade": "^1.1"
+  }
+}
