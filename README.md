@@ -1,4 +1,5 @@
-#Map Generator
+Map Generator
+-------------
 
 A map generator that uses Perlin Noise to create a heightmap 
 and then creates html canvas with colored representation of 
